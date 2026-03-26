@@ -141,6 +141,11 @@ Focus:
 - `src/types/api.ts` - shared response contracts
 - `e2e/menu.spec.ts` - browser test flow
 
+
+## Screenshot/Video link
+
+- https://www.loom.com/share/77b26b27c55c4401b40cddfb3a33f359
+
 ## Troubleshooting
 
 - If no locations appear, verify backend is running and `NEXT_PUBLIC_API_BASE_URL` is correct
